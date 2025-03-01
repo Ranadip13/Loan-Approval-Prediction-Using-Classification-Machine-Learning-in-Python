@@ -1,7 +1,7 @@
 # Loan Approval Prediction Using Classification Machine Learning in Python
 The objective of this project is to predict whether a loan would be a risk to the bank or not. When a customer applies for a loan, bank executives must decide whether to approve or reject the application. This decision is based on verifying the customer's background, analyzing the provided information, and identifying whether the customer will repay the loan or default. Since banks process many loan applications every day, a predictive model can help executives make quicker and better decisions.
 
-In this project, a step-by-step approach to creating a Machine Learning predictive model for such scenarios was discussed. This flow can be used as a template to solve any supervised ML classification problem.
+In this project, a step-by-step approach to creating a Machine Learning predictive model for such scenarios was discussed. This flow can be used as a template to solve any supervised classification ML problem.
 The flow of the case study is as below:
 - Reading the data in python
 - Defining the problem statement
